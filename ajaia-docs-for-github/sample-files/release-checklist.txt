@@ -1,0 +1,6 @@
+Release checklist
+
+Confirm the staging deploy is green.
+Run the smoke tests.
+
+Post the release note in the team channel.
