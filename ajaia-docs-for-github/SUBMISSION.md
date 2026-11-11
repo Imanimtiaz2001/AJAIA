@@ -5,11 +5,11 @@
 
 ## Links
 
-| What              | Where                                    |
-| ----------------- | ---------------------------------------- |
-| Live product      | https://ajaia-docs.vercel.app            |
-| Walkthrough video | Link in [`VIDEO_URL.txt`](VIDEO_URL.txt) |
-| Source code       | This folder                              |
+| What              | Where                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| Live product      | https://ajaia-docs-iman.vercel.app                                                                           |
+| Walkthrough video | https://drive.google.com/file/d/1hbgbRsiABNwe7lyv_r1lIzh3ozbmBzcy/view?usp=sharing (also in `VIDEO_URL.txt`) |
+| Source code       | This folder · GitHub: https://github.com/Imanimtiaz2001/AJAIA                                                |
 
 ## Test accounts
 
