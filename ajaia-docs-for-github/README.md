@@ -2,8 +2,8 @@
 
 A lightweight collaborative document editor: create and format documents in the browser, import files, and share them with teammates as **viewer** or **editor**.
 
-- **Live app:** https://ajaia-docs.vercel.app
-- **Walkthrough video:** see [`VIDEO_URL.txt`](VIDEO_URL.txt)
+- **Live app:** https://ajaia-docs-iman.vercel.app
+- **Walkthrough video:** https://drive.google.com/file/d/1hbgbRsiABNwe7lyv_r1lIzh3ozbmBzcy/view?usp=sharing
 - **Architecture note:** [`ARCHITECTURE.md`](ARCHITECTURE.md) · **AI workflow note:** [`AI_WORKFLOW.md`](AI_WORKFLOW.md) · **Submission index:** [`SUBMISSION.md`](SUBMISSION.md)
 
 ## Demo accounts
